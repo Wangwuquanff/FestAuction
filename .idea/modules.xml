@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FestAuction.iml" filepath="$PROJECT_DIR$/FestAuction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hiney-core/hiney-core.iml" filepath="$PROJECT_DIR$/hiney-core/hiney-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/honey-annotations/honey-annotations.iml" filepath="$PROJECT_DIR$/honey-annotations/honey-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/honey-auctuon/honey-auctuon.iml" filepath="$PROJECT_DIR$/honey-auctuon/honey-auctuon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/honey-compiler/honey-compiler.iml" filepath="$PROJECT_DIR$/honey-compiler/honey-compiler.iml" />
+    </modules>
+  </component>
+</project>
